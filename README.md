@@ -1,5 +1,7 @@
 # Intelligent Modeling and Control of Steam Plant Operations with AI
 
+--DTE Energy Challenge--
+
 Lake Superior State University (LSSU)  
 Funded by DTE Energy, in collaboration with Cloverland Electric Cooperative
 
