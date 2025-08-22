@@ -161,7 +161,7 @@ A research paper is in preparation for Spring 2026. Key contributions:
 
 ## License
 
-This project is funded by DTE Energy and intended for research and educational use at Lake Superior State University. Licensing TBD based on final publication and data-sharing agreements.
+Licensing TBD based on final publication and data-sharing agreements.
 
 ---
 
