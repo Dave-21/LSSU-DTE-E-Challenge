@@ -16,6 +16,8 @@ The project will develop a neural network–driven prediction and recommendation
 - Minimizes energy waste during low-demand periods
 
 ---
+Current Status: 
+---
 
 ## Goals
 
